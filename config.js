@@ -1,0 +1,1 @@
+window.CREW_CONFIG = { supabaseURL: "https://xyijevxroveramsrhmbx.supabase.co", anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh5aWpldnhyb3ZlcmFtc3JobWJ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcxNTIzMzgsImV4cCI6MjEwMjcyODMzOH0.vIFxiouxUoIQlHSvl745_WZFvx06m-ZQ9BlxfrE5F6A", cloudURL: "https://portgas-signer.vercel.app" };
